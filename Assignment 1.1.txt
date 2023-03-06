@@ -1,0 +1,60 @@
+1.What is a loop?
+Answer: A loop is a programming construct that allows a program to execute a block of code repeatedly.
+
+2.What is a for loop?
+Answer: A for loop is a looping statement that allows a program to execute a block of code a specific number of  times.
+
+3.What is a while loop?
+Answer: A while loop is a looping statement that allows a program to execute a block of code repeatedly while a specific condition is true.
+
+4.What is a function?
+Answer: A function is a block of code that performs a specific task and can be reused throughout a program.
+
+5.What is a return statement?
+Answer: A return statement is used in a function to return a value to the caller.
+
+6.What is a parameter?
+Answer: A parameter is a value that is passed into a function.
+
+7.What is an argument?
+Answer: An argument is the actual value that is passed into a function when it is called.
+
+8.What is a default parameter?
+Answer: A default parameter is a parameter that has a default value assigned to it, which is used if no value is passed in when the function is called.
+
+9.What is recursion?
+Answer: Recursion is a programming technique where a function calls itself repeatedly until a specific condition is met.
+
+10.What is the difference between int and float data types?
+Answer: int data type represents integer values, while float data type represents decimal values.
+
+11.What is the modulus operator and what is its purpose?
+Answer: The modulus operator, represented by the percent sign (%), returns the remainder of a division operation.
+
+12.What is the purpose of the == operator?
+Answer: The == operator is used to check if two values are equal.
+
+13.What is the purpose of the != operator?
+Answer: The != operator is used to check if two values are not equal.
+
+14.What is the purpose of the > operator?
+Answer: The > operator is used to check if one value is greater than another value.
+
+15.What is the purpose of the < operator?
+Answer: The < operator is used to check if one value is less than another value.
+
+16.What is the purpose of the >= operator?
+Answer: The >= operator is used to check if one value is greater than or equal to another value.
+
+17.What is the purpose of the <= operator?
+Answer: The <= operator is used to check if one value is less than or equal to another value.
+
+18.What is a conditional statement?
+Answer: A conditional statement is a programming construct that allows a program to make decisions based on a specific condition.
+
+19.What is an if statement?
+Answer: An if statement is a conditional statement that executes a block of code if a specific condition is true.
+
+20.What is an else statement?
+Answer: An else statement is a conditional statement that executes a block of code if a specific condition is false.
+
